@@ -1,0 +1,2 @@
+logentry,id,password,last_login,is_superuser,username,first_name,last_name,email,is_staff,is_active,date_joined,groups,user_permissions
+NA,1,pbkdf2_sha256$390000$pSD7aLimREHDQvTdGQHZot$cMBNrmhliSlfgtPmbLK0k2W1vywZNj+utTWelbZ6FH8=,2023-02-18 07:39:32.844330+00:00,True,mauro,,,,True,True,2023-02-18 07:31:06.657001+00:00,auth.Group.None,auth.Permission.None

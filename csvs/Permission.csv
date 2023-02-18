@@ -1,0 +1,37 @@
+group,user,id,name,content_type,codename
+NA,NA,1,Can add log entry,admin | log entry,add_logentry
+NA,NA,2,Can change log entry,admin | log entry,change_logentry
+NA,NA,3,Can delete log entry,admin | log entry,delete_logentry
+NA,NA,4,Can view log entry,admin | log entry,view_logentry
+NA,NA,25,Can add author,app | author,add_author
+NA,NA,26,Can change author,app | author,change_author
+NA,NA,27,Can delete author,app | author,delete_author
+NA,NA,28,Can view author,app | author,view_author
+NA,NA,33,Can add book,app | book,add_book
+NA,NA,34,Can change book,app | book,change_book
+NA,NA,35,Can delete book,app | book,delete_book
+NA,NA,36,Can view book,app | book,view_book
+NA,NA,29,Can add category,app | category,add_category
+NA,NA,30,Can change category,app | category,change_category
+NA,NA,31,Can delete category,app | category,delete_category
+NA,NA,32,Can view category,app | category,view_category
+NA,NA,9,Can add group,auth | group,add_group
+NA,NA,10,Can change group,auth | group,change_group
+NA,NA,11,Can delete group,auth | group,delete_group
+NA,NA,12,Can view group,auth | group,view_group
+NA,NA,5,Can add permission,auth | permission,add_permission
+NA,NA,6,Can change permission,auth | permission,change_permission
+NA,NA,7,Can delete permission,auth | permission,delete_permission
+NA,NA,8,Can view permission,auth | permission,view_permission
+NA,NA,13,Can add user,auth | user,add_user
+NA,NA,14,Can change user,auth | user,change_user
+NA,NA,15,Can delete user,auth | user,delete_user
+NA,NA,16,Can view user,auth | user,view_user
+NA,NA,17,Can add content type,contenttypes | content type,add_contenttype
+NA,NA,18,Can change content type,contenttypes | content type,change_contenttype
+NA,NA,19,Can delete content type,contenttypes | content type,delete_contenttype
+NA,NA,20,Can view content type,contenttypes | content type,view_contenttype
+NA,NA,21,Can add session,sessions | session,add_session
+NA,NA,22,Can change session,sessions | session,change_session
+NA,NA,23,Can delete session,sessions | session,delete_session
+NA,NA,24,Can view session,sessions | session,view_session

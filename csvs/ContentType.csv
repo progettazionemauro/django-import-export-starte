@@ -1,0 +1,10 @@
+logentry,permission,id,app_label,model
+NA,NA,1,admin,logentry
+NA,NA,2,auth,permission
+NA,NA,3,auth,group
+NA,NA,4,auth,user
+NA,NA,5,contenttypes,contenttype
+NA,NA,6,sessions,session
+NA,NA,7,app,author
+NA,NA,8,app,category
+NA,NA,9,app,book
